@@ -83,10 +83,10 @@
       }
     },
     "rootView": {
-      "viewName": "lb.viewDemo.view.MainView",
+      "viewName": "lb.viewDemo.view.App",
       "type": "XML",
       "async": true,
-      "id": "MainView"
+      "id": "App"
     }
   }
 }
