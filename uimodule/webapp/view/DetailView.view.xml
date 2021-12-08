@@ -1,0 +1,11 @@
+<mvc:View controllerName="lb.viewDemo.controller.DetailView" displayBlock="true"
+    xmlns="sap.m"
+    xmlns:mvc="sap.ui.core.mvc">
+    <!-- <App id="DetailView">
+    <pages> -->
+    <Page title="Detail Page">
+        <content></content>
+    </Page>
+    <!-- </pages>
+  </App> -->
+</mvc:View>
