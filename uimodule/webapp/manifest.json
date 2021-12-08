@@ -70,6 +70,13 @@
           "target": [
             "TargetMainView"
           ]
+        },
+        {
+          "name": "DetailView",
+          "pattern": "RouteDetailView",
+          "target": [
+            "TargetDetailView"
+          ]
         }
       ],
       "targets": {
@@ -79,6 +86,11 @@
           "clearControlAggregation": false,
           "viewId": "MainView",
           "viewName": "MainView"
+        },
+        "TargetDetailView": {
+          "viewType": "XML",
+          "viewId": "DetailView",
+          "viewName": "DetailView"
         }
       }
     },
